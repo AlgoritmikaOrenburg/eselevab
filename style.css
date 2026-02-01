@@ -1,1 +1,35 @@
+body {
+    font-family: sans-serif;
+}
 
+h1{
+    text-align: center;
+    color: #5EC4CD;
+    margin: 2px;
+    border-radius: 5px;
+    background-color: #c7f1f1;
+}
+
+h3{
+    text-align: center;
+    color: #5EC4CD;
+    margin: 2px;
+    border-radius: 5px;
+    background-color: #c7f1f1;
+}
+
+
+li a{
+    border: 2px dotted #5DC8CD;
+    padding: 5px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+ol li{
+    margin: 15;
+}
+
+a:hover{
+    color: black;
+}
